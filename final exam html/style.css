@@ -1,0 +1,73 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: #C1D0B5;
+    position: relative;
+    overflow: hidden;
+}
+
+.header1
+{
+    height: 60px;
+    width: 100%;
+    color: #fff;
+    background-color: #606C5D;
+}
+.h1
+{
+    position: absolute;
+    left: 70%;    
+}
+.h2
+{
+    position: absolute;
+    left: 75%;    
+}
+.h3
+{
+    position: absolute;
+    left: 80%;    
+}
+
+
+.box
+{
+    height: 96vh;
+    width: 40%;
+    background-color: #606C5D;
+    position: absolute;
+    left: 65%;
+   
+}
+.box img
+{
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
+.box1
+{
+    width: 30%;
+    position: absolute;
+    top: 30vh;
+    left: 55%;
+}
+.box1 img
+{
+    position: absolute;
+    left: 10%;
+}
+.box1 img :hover
+{
+    height: 450vh;
+}
+
+.tex
+{
+    position: absolute;
+}
